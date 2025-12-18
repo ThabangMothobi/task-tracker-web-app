@@ -88,6 +88,18 @@ No additional setup or dependencies are required.
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshots/screenshot-home.png)
+
+### Task Management
+![Tasks Added](screenshots/screenshot-tasks.png)
+
+### Local Storage Persistence
+![Local Storage](screenshots/screenshot-localstorage.png)
+
+
 ## 👤 Author
 
 Developed by **Thabang Mothobi**
@@ -99,3 +111,4 @@ ICT Student – UNISA
 ## 📄 License
 
 This project is for educational and portfolio purposes.
+

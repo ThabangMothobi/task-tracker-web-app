@@ -91,6 +91,7 @@ No additional setup or dependencies are required.
 ## 👤 Author
 
 Developed by **Thabang Mothobi**
+
 ICT Student – UNISA
 
 ---

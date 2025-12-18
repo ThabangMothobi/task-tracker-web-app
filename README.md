@@ -104,6 +104,7 @@ No additional setup or dependencies are required.
 ![Local Storage](screenshots/screenshot-localstorage.png)
 
 
+
 ## 👤 Author
 
 Developed by **Thabang Mothobi**

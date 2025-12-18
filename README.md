@@ -31,6 +31,10 @@ This project was created to demonstrate practical skills aligned with UNISA ICT 
 ```
 📁 task-tracker-web-app
 │── index.html
+|--- Screenshots
+   - screenshot-home.png
+   - screenshot-localstorage.png
+   - screenshot-tasks.png
 │── style.css
 │── script.js
 │── README.md
